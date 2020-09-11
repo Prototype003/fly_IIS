@@ -1,8 +1,6 @@
 # fly_IIS
 Processing and analysis code for manuscript "Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster"
 
-## Extracting preprocessed trials
-* bin/main_postPuffPreStim_extract.m  
 Preprocessed trials can be found here - doi:10.26180/5ebe420ae8d89  
 File (split2250_bipolarRerefType1_lineNoiseRemoved_postPuffpreStim.mat) should be stored in bin/workspace_results/  
 
