@@ -7,7 +7,8 @@ Preprocessed trials can be found here - doi:10.26180/5ebe420ae8d89
 File (split2250_bipolarRerefType1_lineNoiseRemoved_postPuffpreStim.mat) should be stored in bin/workspace_results/  
 
 ## Core scripts/functions for obtaining IIS and SII using pyphi:
-bin/fly_phi.py - underlying functions for binarisation of fly data, building TPM, parsing pyphi output  
+bin/fly_phi.py
+>underlying functions for binarisation of fly data, building TPM, parsing pyphi output  
 bin/phi_3/phi_compute.py - computation of IIS and SII for a given channel-set/fly/trial/condition combination - outputs to bin/phi_3/results_split/  
 
 ## Core scripts for IIS/SII computation using MASSIVE:
